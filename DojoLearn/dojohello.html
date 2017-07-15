@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        @import "dojo-release-1.9.1/dijit/themes/tundra/tundra.css";
+        @import "dojo-release-1.9.1/dojo/resources/dojo.css";
+    </style>
+    <script type="text/javascript" src="dojo-release-1.9.1/dojo/dojo.js"  djConfig="parseOnLoad:true"></script>
+    <script type="text/javascript">
+        
+        dojo.addOnLoad(function () {
+            dojo.connect(dojo.byId("Button1"), "onclick", null, function () {
+                var z = dojo.map([2, 3, 4], function (x) {
+                    return x = 1;
+                });
+                alert('ddd');
+            }
+                );
+
+        });
+    </script>
+   
+</head>
+<body class="tundra">
+    <div>
+       <input id="Button1" type="button" value="button" />
+    </div>
+</body>
+</html>

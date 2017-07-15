@@ -1,0 +1,6 @@
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\bin\DojoLearn.dll
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\bin\DojoLearn.pdb
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\obj\Debug\DojoLearn.csprojResolveAssemblyReference.cache
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\obj\Debug\DojoLearn.dll
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\obj\Debug\DojoLearn.pdb
+E:\学习\src\Dojo学习\DojoLearn\DojoLearn\bin\DojoLearn.dll.config
